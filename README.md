@@ -4,6 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d0whc3r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Metrics
+### Metrics
 
 ![Metrics](https://metrics.lecoq.io/d0whc3r)
